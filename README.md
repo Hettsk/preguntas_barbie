@@ -98,18 +98,33 @@
     const questions = [
         {
             q: "¿En qué año fue creada Barbie?",
-            options: ["2000", "1877", "1959"],
+            options: ["1959", "1877", "2000"],
             correct: "1959"
         },
         {
             q: "¿Quién la creó?",
-            options: ["Steve Jobs", "Ole Kirk Christiansen", "Ruth Handler"],
+            options: ["Ruth Handler", "Ole Kirk Christiansen", "Disney"],
             correct: "Ruth Handler"
         },
         {
             q: "¿Cuáles son algunas de las profesiones de Barbie?",
             options: ["Astronauta", "Presidente", "Doctora y Veterinaria", "Todas las anteriores"],
             correct: "Todas las anteriores"
+        },
+        {
+            q: "¿Quién sirigió la película de Barbie 2023?",
+            options: ["Sofia Coppola", "Greta Gerwig", "Quentin Tarantino"],
+            correct: "Greta Gerwig"
+        },
+        {
+            q: "¿A qué película superó en Récord de Warner Bros?",
+            options: ["Harry Potter 2011", "The Flash", "Blade Runner"],
+            correct: "Harry Potter 2011"
+        },
+        {
+            q: "La película Barbie dominó la taquilla del 2023",
+            options: ["Verdadero", "Falso"],
+            correct: "Verdadero"
         }
     ];
 
